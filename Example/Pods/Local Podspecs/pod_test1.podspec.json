@@ -1,0 +1,22 @@
+{
+  "name": "pod_test1",
+  "version": "0.1.0",
+  "summary": "A short description of pod_test1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lxz/pod_test1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lxz": "545596604@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/lxz/pod_test1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "pod_test1/Classes/**/*"
+}
